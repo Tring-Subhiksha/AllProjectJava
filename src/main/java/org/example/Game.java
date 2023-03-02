@@ -34,7 +34,7 @@ public class Game {
             Tictactoe.displaytictactoe();
             if (Tictactoe.columnwin() || Tictactoe.rowwin() || Tictactoe.diagonalwin()) {
                 li.println(currentplayer.name + " has won");
-                System.exit(0);
+                break;
             } else {
                 if (currentplayer == h1) {
                     currentplayer = h2;

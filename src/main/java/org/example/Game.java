@@ -5,7 +5,10 @@ import java.io.PrintStream;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 public class Game {
-    public static void Tictactoegame() {
+    private Game(){
+
+    }
+    public static void tictactoegame() {
         int count = 0;
         PrintStream li = new PrintStream((new FileOutputStream(FileDescriptor.out)));
         Scanner sc1 = new Scanner(System.in);

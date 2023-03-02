@@ -5,7 +5,10 @@ import java.util.logging.Logger;
 
 
 public class CalculatorNew {
-    public static void Calculator(){
+    private CalculatorNew(){
+
+    }
+    public static void calculator(){
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger("com.api.jar");
 

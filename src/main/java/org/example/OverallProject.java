@@ -20,19 +20,19 @@ class OverallProject {
                       a.accountDisplay();
                       break;
                   case 2:
-                      Shapes.BasicShapes();
+                      Shapes.basicShapes();
                       break;
                   case 3:
-                      Student.Basicstudent();
+                      Student.basicstudent();
                       break;
                   case 4:
-                      Database.Simpledatabase();
+                      Database.simpledatabase();
                       break;
                   case 5:
-                      Simplepoint.Point();
+                      Simplepoint.coordinates();
                       break;
                   case 6:
-                      Card.Simplecard();
+                      Card.simplecard();
                       break;
                   case 7:
                       StudentList.Student();
@@ -41,25 +41,25 @@ class OverallProject {
                       Hashmap.hashmap();
                       break;
                   case 9:
-                      Hashset.HashSet();
+                      Hashset.hashSet();
                       break;
                   case 10:
-                      TreeSetExample.Treeset();
+                      TreeSetExample.treeset();
                       break;
                   case 11:
                       Linked.connected();
                       break;
                   case 12:
-                      CalculatorNew.Calculator();
+                      CalculatorNew.calculator();
                       break;
                   case 13:
                       Simplecontact.listcontact();
                       break;
                   case 14:
-                      Frequency.Words();
+                      Frequency.words();
                       break;
                   case 15:
-                      Game.Tictactoegame();
+                      Game.tictactoegame();
                       break;
                   default:
                       l.info("Thank you");

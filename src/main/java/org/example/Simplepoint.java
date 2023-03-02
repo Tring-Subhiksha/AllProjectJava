@@ -39,7 +39,7 @@ public class Simplepoint implements Cloneable{
         }
     }
 
-    public static void Point(){
+    public static void coordinates(){
         Simplepoint d=new Simplepoint();
         l.log(Level.INFO, () ->"1,Same Coordinates--> returns True\n2,Different Coordinates--> returns False\n Answer is "+d.point());
         Simplepoint d2=d.cloneTest();

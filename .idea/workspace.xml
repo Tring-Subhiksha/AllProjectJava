@@ -9,13 +9,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2163d299-e856-4c71-bfa9-8de319d5866f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2163d299-e856-4c71-bfa9-8de319d5866f" name="Changes" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/OverallProject_jar/OverallProject.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OverallProject_jar/OverallProject.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CalculatorNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CalculatorNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Frequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Hashset.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OverallProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OverallProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Simplecontact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Simplecontact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Simplepoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Simplepoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TreeSetExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +100,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677752823060</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1677761764619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677761764619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
 </project>

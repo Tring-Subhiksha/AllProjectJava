@@ -42,7 +42,7 @@ class Card implements Cloneable{
             return this;
         }
     }
-    public static void Simplecard(){
+    public static void simplecard(){
         Card c1=new Card();
         l.log(Level.INFO, () ->"1,Same Card number--> returns True\n2,Different Card number--> returns False\n Answeris  "+c1.cardno());
         Card c2=c1.cloneTest();

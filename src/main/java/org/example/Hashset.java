@@ -8,11 +8,14 @@ class Medicines{
 
 }
 public class Hashset {
+    private Hashset(){
+
+    }
     String name;
     Hashset(String medicinename){
         this.name=medicinename;
     }
-    public static void HashSet() {
+    public static void hashSet() {
         Scanner sc=new Scanner(System.in);
         Scanner sc1=new Scanner(System.in);
         Logger l=Logger.getLogger("com.api.jar");
@@ -39,8 +42,7 @@ public class Hashset {
         l.info("To remove one item from the hashset");
         med.remove(s2);
 
-        l.info("To check whether the elements is present or not in hashset");
-        med.contains(s2);
+
 
         l.info("To clear the elements using Hashset");
         med.clear();

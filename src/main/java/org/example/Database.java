@@ -5,7 +5,7 @@ import java.util.*;
 import java.util.logging.Logger;
 
 import java.sql.Connection;
-class Database {
+public class Database {
     static Database data=null;
     Logger s = Logger.getLogger("com.api.jar");
 
@@ -30,7 +30,7 @@ class Database {
         s.info("Connection closed");
     }
 
-    public static void Simpledatabase() throws SQLException {
+    public static void simpledatabase() throws SQLException {
         Logger s=Logger.getLogger("com.api.jar");
         Scanner sc = new Scanner(System.in);
 

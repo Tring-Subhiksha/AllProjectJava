@@ -59,7 +59,7 @@ public class Student extends Exception{
         gpa=mark/credit;
     }
 
-    public static void Basicstudent(){
+    public static void basicstudent(){
         Student s=new Student();
         Logger l = Logger.getLogger("com.api.jar");
         s.checkgrade();

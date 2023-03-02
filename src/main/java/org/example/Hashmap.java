@@ -6,6 +6,9 @@ import java.util.Scanner;
 import java.util.logging.Logger;
 import java.util.logging.Level;
 public class Hashmap{
+    private Hashmap(){
+
+    }
 
     public static void hashmap() {
         Scanner sc = new Scanner(System.in);
@@ -46,19 +49,19 @@ public class Hashmap{
            }
         l.info("Print the elements using Hashmap");
         l.info("Iterating Hashmap...");
-        for(Map.Entry m : med.entrySet()) {
+        for(Map.Entry<Integer,String> m : med.entrySet()) {
             l.log(Level.INFO, () ->(m.getKey()+" "+m.getValue()));
         }
-        l.info("Print the initial elements of hashmap" +med);
+        l.log(Level.INFO, () ->"Print the initial elements of hashmap" +med);
         med.putIfAbsent(103, "Acetaminophen");
         l.info("After putIfAbsent() method print the elements using hashmap");
-        for(Map.Entry m:med.entrySet()){
+        for(Map.Entry<Integer,String> m:med.entrySet()){
             l.log(Level.INFO, () ->(m.getKey()+" "+m.getValue()));
         }
         HashMap<Integer,String> med1=new HashMap<Integer,String>();
         med1.put(104,"Ravi");
         l.info("Updating the elements using Hashmap ");
-        for(Map.Entry m:med1.entrySet()){
+        for(Map.Entry<Integer,String> m:med1.entrySet()){
             l.log(Level.INFO, () ->(m.getKey()+" "+m.getValue()));
         }
         l.info("Give the remove elements using hashmap");

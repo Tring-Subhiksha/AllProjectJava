@@ -4,7 +4,10 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.TreeSet;
 public class TreeSetExample {
-    public static void Treeset(){
+    private TreeSetExample(){
+
+    }
+    public static void treeset(){
         Scanner sc=new Scanner(System.in);
         TreeSet<Integer> med=new TreeSet<>();
         Logger l=Logger.getLogger("com.api.jar");

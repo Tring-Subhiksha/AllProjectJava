@@ -9,6 +9,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Frequency{
+    private Frequency(){
+
+    }
     static void countwords(Map<String, Integer> words) throws FileNotFoundException {
         Scanner file = new Scanner(new File("src/main/java/org/example/sample.txt"));
         while (file.hasNext()) {
@@ -34,7 +37,7 @@ public class Frequency{
     }
 
 
-    public static void Words() throws FileNotFoundException {
+    public static void words() throws FileNotFoundException {
         Map<String,Integer> words= new HashMap<>();
         countwords(words);
 

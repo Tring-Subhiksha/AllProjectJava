@@ -2,6 +2,9 @@ package org.example;
 import java.util.*;
 import java.util.logging.Logger;
 public class Simplecontact {
+    private Simplecontact(){
+
+    }
     public static void listcontact() {
         Scanner sc=new Scanner(System.in);
         Scanner sc1=new Scanner(System.in);

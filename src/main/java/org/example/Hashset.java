@@ -37,7 +37,7 @@ public class Hashset {
         Iterator<Hashset> iterator = med.iterator();
         l.info("Print the  Medicine names using Hashset");
         while (iterator.hasNext()) {
-            l.info(iterator.next().name);
+            l.log(Level.INFO,()->iterator.next().name);
         }
         l.info("To remove one item from the hashset");
         med.remove(s2);

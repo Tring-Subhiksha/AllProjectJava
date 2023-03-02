@@ -27,12 +27,12 @@ public class Simplepoint{
             return "false";
         }
     }
-    Simplepoint cloneTest()
+    public Simplepoint cloneTest()
     {
         try {
             return (Simplepoint) super.clone();
         }
-        catch(CloneNotSupportedException e)
+        catch(Exception e)
         {
             l.info("Cloning not allowed");
             return this;

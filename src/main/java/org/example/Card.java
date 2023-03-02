@@ -31,12 +31,12 @@ class Card {
             return "false";
         }
     }
-    Card cloneTest()
+    public Card cloneTest()
     {
         try {
             return(Card) super.clone();
         }
-        catch(CloneNotSupportedException e)
+        catch(Exception e)
         {
             l.info("Cloning not allowed");
             return this;

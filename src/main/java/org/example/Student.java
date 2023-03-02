@@ -1,11 +1,8 @@
 package org.example;
 import java.util.*;
 import java.util.logging.*;
-public class Student extends Exception{
-    public Student(String str){
+public class Student {
 
-        super(str);
-    }
     private static String name;
     private static String grade;
    private static double gpa;
@@ -23,10 +20,10 @@ public class Student extends Exception{
             l.info("\nEnter the Grade level:");
             grade = sc.nextLine();
             if(grade.length()>2){
-                throw new Student("Greater than string length");
+                throw new StudentException("Greater than string length");
             }
 
-        }catch (Student ex){
+        }catch (StudentException ex){
             l.log(Level.INFO, () ->"\nException Occur:" +ex);
             System.exit(0);
         }

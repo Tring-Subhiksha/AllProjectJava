@@ -6,12 +6,12 @@ public class Student extends Exception{
 
         super(str);
     }
-    private static String name;
-    private static String grade;
-    private static double gpa;
-    private static double gradeValue;
-    private static double credit;
-    private static double mark;
+    public   String name;
+    public String grade;
+    public  double gpa;
+    public  double gradeValue;
+    public double credit;
+    public  double mark;
     static Logger l = Logger.getLogger("com.api.jar");
     Student(){
         Scanner sc=new Scanner(System.in);

@@ -3,12 +3,12 @@ import java.util.*;
 import java.util.logging.*;
 public class Student {
 
-    private static String name;
-    private static String grade;
-   private static double gpa;
-   private static double gradeValue;
-    private static double credit;
-    private static double mark;
+     String name;
+    String grade;
+   double gpa;
+  double gradeValue;
+   double credit;
+   double mark;
     final Logger l = Logger.getLogger("com.api.jar");
     Student(){
         Scanner sc=new Scanner(System.in);
@@ -38,7 +38,7 @@ public class Student {
         l.log(Level.INFO, () ->"\nGrade Level:" +grade);
         return name+" has a "+gpa+" GPA";
     }
-    void checkgrade(){
+      void checkgrade(){
 
 
         switch (grade) {

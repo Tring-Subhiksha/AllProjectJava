@@ -5,9 +5,9 @@ import java.util.*;
 import java.util.logging.Level;
 
 public class StudentList implements Comparator<StudentList> {
-    private String studentname;
-    private int studentage;
-    private double studentgpa;
+     String studentname;
+     int studentage;
+     double studentgpa;
     static Logger l = Logger.getLogger("com.api.jar");
 
    private  StudentList() {

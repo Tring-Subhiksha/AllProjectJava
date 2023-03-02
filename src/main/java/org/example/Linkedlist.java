@@ -3,8 +3,8 @@ package org.example;
 public class Linkedlist{
 
     Linkedlist nextNode=null;
-    public int data;
-    public int index;
+     int data;
+     int index;
 
     Linkedlist(int value,int index){
         this.data= value;

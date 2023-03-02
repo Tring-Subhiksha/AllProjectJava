@@ -8,7 +8,7 @@ public class StudentList implements Comparator<StudentList> {
      String studentname;
      int studentage;
      double studentgpa;
-    static Logger l = Logger.getLogger("com.api.jar");
+
 
    private  StudentList() {
     }

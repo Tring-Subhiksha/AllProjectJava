@@ -4,9 +4,7 @@ import java.util.Scanner;
 import java.util.logging.Logger;
 import java.util.Iterator;
 import java.util.logging.Level;
-class Medicines{
 
-}
 public class Hashset {
     private Hashset(){
 

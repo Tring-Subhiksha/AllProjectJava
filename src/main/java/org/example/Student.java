@@ -3,19 +3,20 @@ import java.util.*;
 import java.util.logging.*;
 public class Student extends Exception{
     public Student(String str){
+
         super(str);
     }
-    String stuname;
-    String grade;
-    double gpa;
-    double gradeValue;
-    double credit;
-    double mark;
+    private String name;
+    private String grade;
+    private double gpa;
+    private double gradeValue;
+    private double credit;
+    private double mark;
     Logger l = Logger.getLogger("com.api.jar");
     Student(){
         Scanner sc=new Scanner(System.in);
         l.info("\nEnter Your Name:");
-        stuname=sc.nextLine();
+        name=sc.nextLine();
         try {
 
 
@@ -36,9 +37,9 @@ public class Student extends Exception{
     }
     String showdetails()
     {
-        l.log(Level.INFO, () ->"\nStudent Name:" +stuname);
+        l.log(Level.INFO, () ->"\nStudent Name:" +name);
         l.log(Level.INFO, () ->"\nGrade Level:" +grade);
-        return stuname+" has a "+gpa+" GPA";
+        return name+" has a "+gpa+" GPA";
     }
     void checkgrade(){
 

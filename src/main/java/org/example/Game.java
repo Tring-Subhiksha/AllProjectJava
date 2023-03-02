@@ -48,8 +48,9 @@ public class Game {
 
             if (count >= 9) {
                 li.println("Draw match!!");
-                break;
+                System.exit(0);
             }
         }
+
     }
 }

@@ -12,7 +12,8 @@ public class CalculatorNew {
         Scanner sc=new Scanner(System.in);
         Logger l=Logger.getLogger("com.api.jar");
 
-        double first = 0,second=0;
+        double first = 0;
+        double second=0;
         try{
             l.info("Enter the First Number:");
             first=sc.nextDouble();

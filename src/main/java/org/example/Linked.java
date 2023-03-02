@@ -1,7 +1,7 @@
 package org.example;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import java.util.*;
+
 public class Linked{
     Logger l=Logger.getLogger("com.api.jar");
     Linkedlist rootNode = null;

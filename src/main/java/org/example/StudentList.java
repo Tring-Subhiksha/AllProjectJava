@@ -4,13 +4,13 @@ import java.util.logging.Logger;
 import java.util.*;
 import java.util.logging.Level;
 
-class StudentList implements Comparator<StudentList> {
+public class StudentList implements Comparator<StudentList> {
     private String studentname;
     private int studentage;
     private double studentgpa;
     static Logger l = Logger.getLogger("com.api.jar");
 
-    StudentList() {
+   private  StudentList() {
     }
 
     void setter(String name, int age, double gpa) {
@@ -36,7 +36,7 @@ class StudentList implements Comparator<StudentList> {
         return (int) ((int) a.studentgpa - b.studentgpa);
     }
 
-        public static void Student() {
+        public static void student() {
             Scanner sc=new Scanner(System.in);
             Scanner sc1=new Scanner(System.in);
             Logger l=Logger.getLogger("com.api.jar");

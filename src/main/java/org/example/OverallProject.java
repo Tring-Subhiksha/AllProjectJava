@@ -35,7 +35,7 @@ class OverallProject {
                       Card.simplecard();
                       break;
                   case 7:
-                      StudentList.Student();
+                      StudentList.student();
                       break;
                   case 8:
                       Hashmap.hashmap();

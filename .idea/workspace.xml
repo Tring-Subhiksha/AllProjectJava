@@ -9,7 +9,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2163d299-e856-4c71-bfa9-8de319d5866f" name="Changes" comment="updated" />
+    <list default="true" id="2163d299-e856-4c71-bfa9-8de319d5866f" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/bankaccount/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/calculatornew/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/bankaccount/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/calculatornew/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CalculatorNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/calculatornew/CalculatorNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/card/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/database/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Div.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/calculatornew/Div.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/frequency/Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hashmap/Hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Hashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hashset/Hashset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Humanmove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Humanmove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Linked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arraylist/Linked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arraylist/Linkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Linkedlistcontact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/simplecontact/Linkedlistcontact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Mul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/calculatornew/Mul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/simplecontact/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OverallProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OverallProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Shapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Simplecontact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/simplecontact/Simplecontact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Simplepoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/simplepoint/Simplepoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basicstudent/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/basicstudent/StudentException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StudentList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arraylist/StudentList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/calculatornew/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Tictactoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/game/Tictactoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/treeset/TreeSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/frequency/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CalculatorNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Div.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Frequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Hashmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Hashset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Humanmove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Linked.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Linkedlist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Linkedlistcontact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Mul.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/OverallProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/OverallProject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Shapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Simplecontact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Simplepoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/StudentException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/StudentList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Sub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Tictactoe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/TreeSetExample.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +79,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
@@ -59,6 +120,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Tringapps-user18\IdeaProjects\untitled\src\main\java\org\example" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tringapps-user18\IdeaProjects\AllProjectJava\src\main\java\org\example\Frequency" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.OverallProject">
     <configuration name="OverallProject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -66,7 +130,7 @@
       <module name="OverallProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.bankaccount.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677816271785</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="updated">
+      <created>1677817060017</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677817060017</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

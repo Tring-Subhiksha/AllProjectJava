@@ -9,37 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2163d299-e856-4c71-bfa9-8de319d5866f" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Add.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/BankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/CalculatorNew.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Card.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Database.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Div.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Frequency.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Hashmap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Hashset.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Humanmove.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Linked.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Linkedlist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Linkedlistcontact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Mul.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/OverallProject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Shapes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Simplecontact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Simplepoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/StudentException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/StudentList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Sub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Tictactoe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/TreeSetExample.class" afterDir="false" />
-    </list>
+    <list default="true" id="2163d299-e856-4c71-bfa9-8de319d5866f" name="Changes" comment="updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677815901335</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="updated">
+      <created>1677816204958</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677816204958</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updated">
+      <created>1677816271785</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677816271785</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
